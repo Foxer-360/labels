@@ -1,0 +1,17 @@
+{
+  "name": "@foxer360/labels",
+  "version": "0.1.0",
+  "description": "Simple script to push custom labels for Issues into repository.",
+  "repository": "",
+  "author": "Filip Suchý <nevim42@gmail.com>",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+  	"start": "node index.js"
+  },
+  "dependencies": {
+    "git-label": "^4.1.1",
+    "request": "^2.88.0"
+  }
+}
