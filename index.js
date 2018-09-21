@@ -10,7 +10,7 @@ const config = {
 const labels = [
   { name: 'Bug', description: `Inconsistencies or issues which will cause an issue or problem for users or implementors.`, 'color': 'd73a4a' },
   { name: 'Documentation', description: `Things related to documentation like add description of some functions.`, 'color': 'cfd3d7' },
-  { name: 'Enchancement', description: `Most issues for additions or changes. It's expected that this type will result in a Pull Request.`, 'color': '3b38f4' },
+  { name: 'Enhancement', description: `Most issues for additions or changes. It's expected that this type will result in a Pull Request.`, 'color': '3b38f4' },
   { name: 'Maintenance', description: `Code purification, updating phrasing or wording, without changing the functionality.`, 'color': '290e6b' },
   { name: 'Priority: Critical', description: `This should be dealt with ASAP. Not fixing this issue would be a serious error.`, 'color': 'd73a4a' },
   { name: 'Priority: High', description: `After critical issues are fixed, these should be dealt with before any further issues.`, 'color': 'FFC274' },
